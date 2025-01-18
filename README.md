@@ -56,3 +56,8 @@ In traditional farming, overwatering or under-watering often leads to water wast
 5. Users can monitor the system and manually control the pump using the Blynk app.  
 
 ---
+
+## 🖥️ Circuit Diagram
+
+![Circuit Diagram](./images/circuit-diagram.jpg)
+
