@@ -57,7 +57,5 @@ In traditional farming, overwatering or under-watering often leads to water wast
 
 ---
 
-## 🖥️ Circuit Diagram
 
-![Circuit Diagram](./Screenshots/circuit diagram.jpg)
 
