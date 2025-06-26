@@ -57,5 +57,9 @@ In traditional farming, overwatering or under-watering often leads to water wast
 
 ---
 
+## 🌱 Soil Moisture Project Demo Video
+
+[▶️ Click here to watch the demo video](https://drive.google.com/file/d/19mY-Y-ZSj6Qkgkhh_cfPLhJ3eEpeqMqM/view?usp=drivesdk)
+
 
 
